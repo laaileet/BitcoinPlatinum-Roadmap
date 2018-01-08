@@ -32,5 +32,3 @@ Without any possibility of fraud or cash-grab,
 Bitcoin Platinum is an amazing project,
 
 and this will be a revival of Bitcoin Platinum, coming soon :D
-
-[comment]: <Contributed by wjcloud <wjcloud@btcplt.org>
