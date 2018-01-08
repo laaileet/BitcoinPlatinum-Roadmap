@@ -25,6 +25,8 @@ New differences compared with the legacy Bitcoin Platinum will be:
 - Other amazing stuffs will be announced soon.
 
 
+
+
 We are being blamed, but we are also well-knowned.
 
 Without any possibility of fraud or cash-grab,
