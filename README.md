@@ -1,6 +1,8 @@
 # BitcoinPlatinum-Roadmap
 Bitcoin Platinum.V2 Roadmap 2018
 
+You can see Korean-translated roadmap here https://github.com/BitcoinPlatinum/BitcoinPlatinum-Roadmap/blob/master/README-ko.md
+
 Bitcoin Platinum (codename BTCPLT) is a hardfork of bitcoin-core that will occur at Q2, 2018. Like the earlier bitcoin, it will enable instant payments to anyone, anywhere in the world with much lower, and faster transactions.
 
 The primary goal is to maintain a variant of Bitcoin that is more decentralized by using an ASIC-resistant Proof of Work algorithm, removing barriers to entry for new miners around the world and reducing the concentration of power in the hands of massive-scale mining operations.
