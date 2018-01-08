@@ -17,4 +17,20 @@ Significant differences at launch time included:
 - 2-way Replay protection (SIGHASH_FORK_ID)
 - Unique wallet addresses (TBD)
 
-### this will be a revival of Bitcoin Platinum, coming soon :D
+New differences compared with the legacy Bitcoin Platinum will be:
+
+- No fucking scammer-teenagers[especially designer & homepage builder & chinese translator]
+- The coin design and logos, homepage will be changed before the launch
+- Codes will be well-organized than other any bitcoin-fork based coins(ex BCash, BTCGPU, BTCD, SBTC, Bitcoin2x) - those commits on the project are hard to read & review.
+- Other amazing stuffs will be announced soon.
+
+
+We are being blamed, but we are also well-knowned.
+
+Without any possibility of fraud or cash-grab,
+
+Bitcoin Platinum is an amazing project,
+
+and this will be a revival of Bitcoin Platinum, coming soon :D
+
+[comment]: <Contributed by wjcloud <wjcloud@btcplt.org>
